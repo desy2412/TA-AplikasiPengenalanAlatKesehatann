@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">MobilePrograming</string>
+    <string name="pindah_activity">pindah activity</string>
+    <string name="pindah_activity_dengan_data">pindah_activity dengan data</string>
+
+    <string name="Stent">Stent adalah tabung kecil dan dapat mengembang yang terbuat dari logam atau bahan lain yang dimasukkan ke dalam saluran yang menyempit atau tersumbat di dalam tubuh untuk tetap terbuka.
+            Ini biasa digunakan untuk mengobati penyakit arteri koroner, penyakit arteri perifer, dan kondisi lain yang memengaruhi aliran darah.</string>
+
+    <string name="kateter">Kateter adalah tabung kecil, tipis, dan fleksibel yang dimasukkan ke dalam tubuh melalui lubang alami atau buatan.
+            Kateter dapat digunakan untuk mengeluarkan urine dari kandung kemih, cairan dari rongga perut, atau cairan dari</string>
+
+    <string name="gunting">Gunting bedah atau surgical scissors adalah alat medis yang digunakan untuk memotong jaringan tubuh. Gunting bedah terdiri dari dua bilah yang tajam dan terkunci.
+            Bilah terbuat dari baja tahan karat atau titanium dan memiliki berbagai bentuk dan ukuran untuk berbagai jenis operasi.</string>
+
+    <string name="pisau_bedah">Pisau bedah atau scalpel adalah alat medis yang digunakan untuk membuat sayatan atau incisions pada jaringan tubuh.
+            Pisau bedah digunakan untuk membuat sayatan besar pada jaringan tubuh selama operasi umum, seperti operasi perut, operasi dada, dan operasi ortopedi.</string>
+
+    <string name="stirrer">Alat laboratorium yang digunakan untuk mencampur cairan bersama-sama. Alat ini merupakan alat yang umum dalam kimia, biologi, dan disiplin ilmu lainnya.
+            Pengaduk dapat berupa manual atau bermotor, dan tersedia dalam berbagai bentuk dan ukuran.</string>
+
+    <string name="bunsen_burner">Alat pembakar laboratorium yang menghasilkan api tunggal dengan suhu yang dapat dikendalikan. Pembakar Bunsen umum digunakan di laboratorium kimia, biologi, dan fisika untuk berbagai keperluan, seperti memanaskan zat, mensterilkan peralatan, dan membengkokkan tabung kaca.</string>
+
+    <string name="alat_ukur">Alat yang digunakan untuk mengukur berbagai parameter dalam laboratorium, seperti massa, volume, suhu, tekanan, dan waktu.
+            Alat ukur laboratorium dapat digunakan untuk berbagai tujuan, seperti penelitian, pengembangan, dan kontrol kualitas.</string>
+
+    <string name="alat_gelas">Alat gelas bedah adalah alat yang digunakan oleh dokter dan tenaga medis lainnya untuk melakukan operasi. Alat ini terbuat dari kaca atau plastik yang kuat dan tahan lama.
+            Alat gelas bedah harus digunakan dengan hati-hati untuk mencegah terjadinya kecelakaan.Alat gelas bedah harus dirawat dengan baik untuk memastikan kebersihan dan keawetannya.</string>
+
+    <string name="kursi_roda">Kursi roda adalah alat bantu mobilitas yang digunakan oleh orang-orang dengan keterbatasan mobilitas, seperti cedera, penyakit, atau gangguan kesehatan lainnya.
+            Kursi roda dapat membantu orang-orang ini untuk bergerak secara mandiri dan berpartisipasi dalam kegiatan sehari-hari.</string>
+
+    <string name="treadmill">Treadmill adalah alat olahraga yang memungkinkan Anda berjalan atau berlari di dalam ruangan. Alat ini terdiri dari sabuk yang bergerak yang Anda jalani atau lari di atasnya sambil tetap berada di tempat yang sama.
+            Treadmill biasanya digunakan untuk olahraga kardiovaskular, penurunan berat badan, dan terapi fisik.</string>
+
+    <string name="alat_bantu_jalan">Alat bantu jalan adalah alat yang digunakan untuk membantu orang yang mengalami kesulitan berjalan.
+            Alat ini dapat digunakan oleh orang yang mengalami cedera, penyakit, atau gangguan kesehatan lainnya yang memengaruhi kemampuan berjalan.</string>
+
+    <string name="otoskop">Otoskop adalah alat medis yang penting untuk memeriksa kesehatan telinga.
+            Alat ini dapat digunakan oleh tenaga medis untuk mendiagnosis dan memantau berbagai kondisi kesehatan telinga.</string>
+
+    <string name="otalmoskop">Oftalmoskop adalah alat medis yang penting untuk memeriksa kesehatan mata.
+            Alat ini dapat digunakan untuk berbagai tujuan, termasuk memeriksa kesehatan mata, mendiagnosis penyakit mata, dan memantau kondisi mata.
+        </string>
+
+    <string name="implankoklea">Implan koklea adalah alat elektronik yang membantu orang dengan tuli berat atau tuli saraf untuk mendengar.
+            Alat ini bekerja dengan mengubah suara menjadi sinyal listrik dan mengirim sinyal tersebut ke saraf pendengaran di dalam telinga, yang kemudian diteruskan ke otak.
+        </string>
+
+    <string name="stetoskop">Stetoskop adalah alat medis yang digunakan untuk mendengarkan suara internal tubuh manusia, terutama suara yang berasal dari organ-organ seperti jantung dan paru-paru.
+            Alat ini membantu tenaga medis, seperti dokter dan perawat, dalam mendiagnosis berbagai kondisi kesehatan dengan mendengarkan suara-suara yang dihasilkan oleh aktivitas organ-organ dalam tubuh.</string>
+
+    <string name="sphygmomanometer">Stetoskop adalah alat medis yang digunakan untuk mendengarkan suara internal tubuh manusia, terutama suara yang berasal dari organ-organ seperti jantung dan paru-paru.
+            Alat ini membantu tenaga medis, seperti dokter dan perawat, dalam mendiagnosis berbagai kondisi kesehatan dengan mendengarkan suara-suara yang dihasilkan oleh aktivitas organ-organ dalam tubuh.</string>
+
+</resources>
